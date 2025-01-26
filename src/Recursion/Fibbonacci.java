@@ -15,7 +15,7 @@ public class Fibbonacci {
 		if(no == 1) {
 			return 1;
 		}
-		return find_fibo(no-1)+find_fibo(no-2);
+		return find_fibo(no-1)+find_fibo(no-2); 
 	}
 
 }
